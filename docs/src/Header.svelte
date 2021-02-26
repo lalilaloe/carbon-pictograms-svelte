@@ -32,7 +32,7 @@
   }
 </style>
 
-<Header aria-label="Navigation" href="/carbon-icons-svelte/">
+<Header aria-label="Navigation" href="/carbon-pictograms-svelte/">
   <div slot="skip-to-content">
     <SkipToContent />
   </div>
